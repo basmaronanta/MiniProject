@@ -1,0 +1,16 @@
+starter\stepdefinitions\CategorySteps.class
+starter\stepdefinitions\LoginSteps.class
+starter\user\Login.class
+starter\user\Category.class
+starter\CucumberTestSuite.class
+starter\stepdefinitions\UserSteps.class
+starter\user\Register.class
+starter\user\Detail.class
+starter\user\TransactionPage.class
+starter\stepdefinitions\DetailSteps.class
+starter\user\DetailPage.class
+starter\stepdefinitions\RegisterSteps.class
+starter\stepdefinitions\TransactionSteps.class
+starter\user\LoginPage.class
+starter\user\Buy.class
+starter\user\HomePage.class

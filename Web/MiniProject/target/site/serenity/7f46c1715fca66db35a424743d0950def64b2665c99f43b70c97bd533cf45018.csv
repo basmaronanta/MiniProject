@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Register","As a user I have successfully registered","SUCCESS","2023-05-08T18:52:23.859996+07:00[Asia/Krasnoyarsk]","0.0","5.3"
+"Register","As a user I registered with incorrect data filled numbers","SUCCESS","2023-05-08T18:52:29.504534+07:00[Asia/Krasnoyarsk]","0.0","7.29"
+"Register","As a user I registered with incorrect data filled character","SUCCESS","2023-05-08T18:52:37.5237589+07:00[Asia/Krasnoyarsk]","0.0","8.29"
+"Register","As a user I register with the data that has been registered","SUCCESS","2023-05-08T18:52:46.9785013+07:00[Asia/Krasnoyarsk]","0.0","7.41"
+"Register","As a user I registered with incomplete data","SUCCESS","2023-05-08T18:52:54.9129676+07:00[Asia/Krasnoyarsk]","0.0","6.25"

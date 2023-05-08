@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"category","GET  list of category","SUCCESS","2023-05-07T21:57:40.891457+07:00[Asia/Krasnoyarsk]","0.0","0.28"
+"category","POST As an admin I have be able to create new product category","SUCCESS","2023-05-07T21:57:41.1761799+07:00[Asia/Krasnoyarsk]","0.0","0.19"
+"category","GET id product category","SUCCESS","2023-05-07T21:57:41.3857312+07:00[Asia/Krasnoyarsk]","0.0","0.23"
+"category","DELETE category","SUCCESS","2023-05-07T21:57:41.6323794+07:00[Asia/Krasnoyarsk]","0.0","0.25"

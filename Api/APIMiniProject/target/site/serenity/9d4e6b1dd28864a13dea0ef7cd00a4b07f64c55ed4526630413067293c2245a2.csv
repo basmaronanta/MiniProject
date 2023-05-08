@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Products","GET All Product","SUCCESS","2023-05-07T21:57:36.759725+07:00[Asia/Krasnoyarsk]","0.0","0.77"
+"Products","GET Product by id","SUCCESS","2023-05-07T21:57:37.6130581+07:00[Asia/Krasnoyarsk]","0.0","0.45"
+"Products","Add new product","SUCCESS","2023-05-07T21:57:38.1287211+07:00[Asia/Krasnoyarsk]","0.0","0.37"
+"Products","DELETE Product","SUCCESS","2023-05-07T21:57:38.5117624+07:00[Asia/Krasnoyarsk]","0.0","0.28"
+"Products","GET products rating","SUCCESS","2023-05-07T21:57:38.8247627+07:00[Asia/Krasnoyarsk]","0.0","0.34"
+"Products","GET products comment","SUCCESS","2023-05-07T21:57:39.3960103+07:00[Asia/Krasnoyarsk]","0.0","0.34"

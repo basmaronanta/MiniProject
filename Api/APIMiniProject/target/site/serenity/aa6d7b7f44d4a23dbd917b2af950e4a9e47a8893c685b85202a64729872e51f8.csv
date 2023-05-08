@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Authentication","Register using a valid full name, email and password","SUCCESS","2023-05-07T21:57:31.4192941+07:00[Asia/Krasnoyarsk]","0.0","4.49"
+"Authentication","Login with registered or correct email and password","SUCCESS","2023-05-07T21:57:35.9376275+07:00[Asia/Krasnoyarsk]","0.0","0.37"
+"Authentication","view user information","SUCCESS","2023-05-07T21:57:36.343394+07:00[Asia/Krasnoyarsk]","0.0","0.35"

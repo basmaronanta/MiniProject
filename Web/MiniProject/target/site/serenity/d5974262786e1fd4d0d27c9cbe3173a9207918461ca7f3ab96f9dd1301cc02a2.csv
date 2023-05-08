@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login","As user i have be able to success login","SUCCESS","2023-05-08T18:51:41.8292902+07:00[Asia/Krasnoyarsk]","0.0","4.05"
+"Login","As user i have be able to failed login with account unregistered","SUCCESS","2023-05-08T18:51:46.4600443+07:00[Asia/Krasnoyarsk]","0.0","4.92"
+"Login","As user i have be able to failed login with invalid password","SUCCESS","2023-05-08T18:51:51.9000998+07:00[Asia/Krasnoyarsk]","0.0","8.32"
+"Login","As user i have be able to failed login with password not filled","SUCCESS","2023-05-08T18:52:01.2580162+07:00[Asia/Krasnoyarsk]","0.0","9.84"
+"Login","As user i have be able to failed login with email not filled","SUCCESS","2023-05-08T18:52:11.9099263+07:00[Asia/Krasnoyarsk]","0.0","6.44"
+"Login","As user i have be able to failed login with email and password not filled","SUCCESS","2023-05-08T18:52:18.9142948+07:00[Asia/Krasnoyarsk]","0.0","4.56"
